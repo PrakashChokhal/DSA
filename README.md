@@ -7,6 +7,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakashChokhal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
