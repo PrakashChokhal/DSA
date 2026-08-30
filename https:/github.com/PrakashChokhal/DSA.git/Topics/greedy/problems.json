@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-28T17:21:26.771Z",
+  "updatedAt": "2026-08-30T16:41:07.067Z",
   "problems": [
+    {
+      "frontendId": "2091",
+      "title": "Removing Minimum and Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "problemName": "2091-removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2091-removing-minimum-and-maximum-from-array.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
+          "sha": "d8d9de6ca94e9c3b0154493c2537e4e0ce6fbc6c",
+          "lastSyncedAt": "2026-08-30T16:41:07.067Z"
+        }
+      ]
+    },
     {
       "frontendId": "3720",
       "title": "Lexicographically Smallest Permutation Greater Than Target",
