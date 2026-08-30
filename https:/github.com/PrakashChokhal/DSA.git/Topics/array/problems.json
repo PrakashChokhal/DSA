@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-30T16:41:07.067Z",
+  "updatedAt": "2026-08-30T16:41:19.150Z",
   "problems": [
     {
       "frontendId": "2091",
@@ -22,7 +22,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.cpp",
           "path": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "d8d9de6ca94e9c3b0154493c2537e4e0ce6fbc6c",
-          "lastSyncedAt": "2026-08-30T16:41:07.067Z"
+          "lastSyncedAt": "2026-08-30T16:41:19.150Z"
         }
       ]
     }
