@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-30T16:41:19.150Z",
+  "updatedAt": "2026-09-02T16:02:29.325Z",
   "problems": [
     {
       "frontendId": "2091",
@@ -23,6 +23,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "d8d9de6ca94e9c3b0154493c2537e4e0ce6fbc6c",
           "lastSyncedAt": "2026-08-30T16:41:19.150Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3875-construct-uniform-parity-array-i/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "8947c28573606d9d774f884d02b47414541e9c54",
+          "lastSyncedAt": "2026-09-02T16:02:29.325Z"
         }
       ]
     }
