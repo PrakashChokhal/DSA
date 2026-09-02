@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T16:02:29.325Z",
+  "updatedAt": "2026-09-02T16:03:00.271Z",
   "problems": [
     {
       "frontendId": "2091",
@@ -42,7 +42,7 @@
           "filename": "3875-construct-uniform-parity-array-i.cpp",
           "path": "https:/github.com/PrakashChokhal/DSA.git/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
           "sha": "8947c28573606d9d774f884d02b47414541e9c54",
-          "lastSyncedAt": "2026-09-02T16:02:29.325Z"
+          "lastSyncedAt": "2026-09-02T16:03:00.271Z"
         }
       ]
     }
