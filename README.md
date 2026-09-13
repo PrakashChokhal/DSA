@@ -7,6 +7,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
+| [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -63,4 +64,8 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
