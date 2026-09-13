@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T16:03:00.271Z",
+  "updatedAt": "2026-09-13T16:28:18.252Z",
   "problems": [
+    {
+      "frontendId": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "problemName": "0835-image-overlap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0835-image-overlap/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0835-image-overlap/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0835-image-overlap.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0835-image-overlap/0835-image-overlap.cpp",
+          "sha": "80dfe2003de5275a7b516112dbab273c9e520f0a",
+          "lastSyncedAt": "2026-09-13T16:28:18.252Z"
+        }
+      ]
+    },
     {
       "frontendId": "2091",
       "title": "Removing Minimum and Maximum From Array",
