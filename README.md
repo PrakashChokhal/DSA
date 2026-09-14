@@ -63,9 +63,14 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
