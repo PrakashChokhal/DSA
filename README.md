@@ -34,6 +34,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakashChokhal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/PrakashChokhal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakashChokhal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -73,4 +74,8 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/PrakashChokhal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
