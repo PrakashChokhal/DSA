@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T16:28:18.252Z",
+  "updatedAt": "2026-09-23T18:19:39.625Z",
   "problems": [
     {
       "frontendId": "835",
@@ -23,6 +23,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0835-image-overlap/0835-image-overlap.cpp",
           "sha": "80dfe2003de5275a7b516112dbab273c9e520f0a",
           "lastSyncedAt": "2026-09-13T16:28:18.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "sha": "514d9716595420ca91f69c56bfb42e3d35c42934",
+          "lastSyncedAt": "2026-09-23T18:19:39.625Z"
         }
       ]
     },
