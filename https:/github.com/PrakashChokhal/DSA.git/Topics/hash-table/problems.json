@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-28T17:21:26.771Z",
+  "updatedAt": "2026-09-23T18:19:39.625Z",
   "problems": [
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "sha": "514d9716595420ca91f69c56bfb42e3d35c42934",
+          "lastSyncedAt": "2026-09-23T18:19:39.625Z"
+        }
+      ]
+    },
     {
       "frontendId": "3720",
       "title": "Lexicographically Smallest Permutation Greater Than Target",
