@@ -10,6 +10,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
