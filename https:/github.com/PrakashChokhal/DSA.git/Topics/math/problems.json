@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T18:17:55.427Z",
+  "updatedAt": "2026-09-24T09:48:40.979Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,6 +23,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "6ba54fb28d13761f1feb0a8fae4216a83fc9f2c1",
           "lastSyncedAt": "2026-09-14T18:17:55.427Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "sha": "360ccc78b28e6880fe879a2693642815dc9a4d44",
+          "lastSyncedAt": "2026-09-24T09:48:40.979Z"
         }
       ]
     },
