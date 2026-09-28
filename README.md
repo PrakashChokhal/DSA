@@ -35,6 +35,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakashChokhal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrakashChokhal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakashChokhal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -91,4 +92,12 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
