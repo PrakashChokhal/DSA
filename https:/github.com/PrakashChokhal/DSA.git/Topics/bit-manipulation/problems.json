@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-09-29T14:10:41.512Z",
+  "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0191-number-of-1-bits/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0191-number-of-1-bits.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0191-number-of-1-bits/0191-number-of-1-bits.cpp",
+          "sha": "b3b6e20c67ae43e34a35f49189dbf84be7587223",
+          "lastSyncedAt": "2026-09-29T14:10:41.512Z"
+        }
+      ]
+    }
+  ]
+}
