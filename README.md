@@ -16,6 +16,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +101,8 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
