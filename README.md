@@ -15,6 +15,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
 ## Tree
@@ -37,6 +38,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrakashChokhal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakashChokhal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -72,6 +74,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +89,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrakashChokhal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
