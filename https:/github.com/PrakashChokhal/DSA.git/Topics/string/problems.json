@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T02:39:09.198Z",
+  "updatedAt": "2026-10-02T03:00:12.091Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,6 +23,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "c8710f2fd035d401a2daa93a1660c724f4e42970",
           "lastSyncedAt": "2026-10-02T02:39:09.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/0067-add-binary.cpp",
+          "sha": "a77437e3111763b8ae45148d5f84e5e5a3f9090c",
+          "lastSyncedAt": "2026-10-02T03:00:12.091Z"
         }
       ]
     },
