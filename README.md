@@ -36,6 +36,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrakashChokhal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakashChokhal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -102,10 +103,19 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrakashChokhal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
