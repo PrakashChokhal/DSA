@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T10:54:32.624Z",
+  "updatedAt": "2026-10-02T02:39:09.198Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0022-generate-parentheses/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0022-generate-parentheses.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0022-generate-parentheses/0022-generate-parentheses.cpp",
+          "sha": "c8710f2fd035d401a2daa93a1660c724f4e42970",
+          "lastSyncedAt": "2026-10-02T02:39:09.198Z"
+        }
+      ]
+    },
     {
       "frontendId": "3498",
       "title": "Reverse Degree of a String",
