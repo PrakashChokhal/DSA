@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T14:10:41.512Z",
+  "updatedAt": "2026-10-02T03:00:12.091Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/0067-add-binary.cpp",
+          "sha": "a77437e3111763b8ae45148d5f84e5e5a3f9090c",
+          "lastSyncedAt": "2026-10-02T03:00:12.091Z"
+        }
+      ]
+    },
     {
       "frontendId": "191",
       "title": "Number of 1 Bits",
