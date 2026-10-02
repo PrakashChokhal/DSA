@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-02T03:00:12.091Z",
+  "updatedAt": "2026-10-02T15:02:06.809Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/0067-add-binary.cpp",
           "sha": "a77437e3111763b8ae45148d5f84e5e5a3f9090c",
           "lastSyncedAt": "2026-10-02T03:00:12.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0190-reverse-bits/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0190-reverse-bits.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0190-reverse-bits/0190-reverse-bits.cpp",
+          "sha": "cc57921729df005f12e7e645ed0ba7e47aa2a671",
+          "lastSyncedAt": "2026-10-02T15:02:06.809Z"
         }
       ]
     },
