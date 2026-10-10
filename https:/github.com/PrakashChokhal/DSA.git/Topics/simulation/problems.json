@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-10-02T03:00:12.091Z",
+  "updatedAt": "2026-10-10T15:35:19.027Z",
   "problems": [
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0054-spiral-matrix/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0054-spiral-matrix.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0054-spiral-matrix/0054-spiral-matrix.cpp",
+          "sha": "5effd49502beb712f83b1a133acb54955e6f2cf3",
+          "lastSyncedAt": "2026-10-10T15:35:19.027Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
