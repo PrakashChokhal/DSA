@@ -7,6 +7,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrakashChokhal/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PrakashChokhal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -85,6 +86,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrakashChokhal/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PrakashChokhal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 ## Geometry
 |  |
@@ -94,6 +96,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrakashChokhal/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PrakashChokhal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrakashChokhal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
