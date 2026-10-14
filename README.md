@@ -63,6 +63,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakashChokhal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashChokhal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashChokhal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
