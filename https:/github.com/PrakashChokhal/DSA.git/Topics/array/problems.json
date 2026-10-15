@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:35:19.027Z",
+  "updatedAt": "2026-10-15T15:30:15.021Z",
   "problems": [
     {
       "frontendId": "54",
@@ -84,6 +84,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "d8d9de6ca94e9c3b0154493c2537e4e0ce6fbc6c",
           "lastSyncedAt": "2026-08-30T16:41:19.150Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "sha": "b6711e7674434fec383e81be10e1deade014a388",
+          "lastSyncedAt": "2026-10-15T15:30:15.021Z"
         }
       ]
     },
