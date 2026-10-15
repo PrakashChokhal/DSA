@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-23T18:19:39.625Z",
+  "updatedAt": "2026-10-15T15:30:15.021Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -23,6 +24,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
           "sha": "514d9716595420ca91f69c56bfb42e3d35c42934",
           "lastSyncedAt": "2026-09-23T18:19:39.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "sha": "b6711e7674434fec383e81be10e1deade014a388",
+          "lastSyncedAt": "2026-10-15T15:30:15.021Z"
         }
       ]
     },
