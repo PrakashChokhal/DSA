@@ -19,6 +19,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/PrakashChokhal/DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PrakashChokhal/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
@@ -82,6 +83,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/PrakashChokhal/DSA/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashChokhal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -138,6 +140,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/PrakashChokhal/DSA/tree/master/0089-gray-code) |
 ## Binary Indexed Tree
 |  |
 | ------- |
