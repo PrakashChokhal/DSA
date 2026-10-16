@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-16T16:37:48.368Z",
+  "problems": [
+    {
+      "frontendId": "89",
+      "title": "Gray Code",
+      "slug": "gray-code",
+      "problemName": "0089-gray-code",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0089-gray-code/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0089-gray-code/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0089-gray-code.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0089-gray-code/0089-gray-code.cpp",
+          "sha": "0a37228a3c6185031d03ab763592632489c57f29",
+          "lastSyncedAt": "2026-10-16T16:37:48.368Z"
+        }
+      ]
+    }
+  ]
+}
