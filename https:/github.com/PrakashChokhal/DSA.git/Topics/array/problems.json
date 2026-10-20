@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T15:30:15.021Z",
+  "updatedAt": "2026-10-20T16:08:54.662Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0035-search-insert-position/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "629f63b6c9e64fa84999d49a996e76c3b945273a",
+          "lastSyncedAt": "2026-10-20T16:08:54.662Z"
+        }
+      ]
+    },
     {
       "frontendId": "54",
       "title": "Spiral Matrix",
