@@ -10,6 +10,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0054-spiral-matrix](https://github.com/PrakashChokhal/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PrakashChokhal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -24,6 +25,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0136-single-number](https://github.com/PrakashChokhal/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PrakashChokhal/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakashChokhal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakashChokhal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -85,6 +88,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | ------- |
 | [0067-add-binary](https://github.com/PrakashChokhal/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PrakashChokhal/DSA/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashChokhal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -110,6 +114,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PrakashChokhal/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -151,4 +156,8 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakashChokhal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
