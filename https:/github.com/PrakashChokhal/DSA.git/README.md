@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 10 | 7 | 0 |
+| 18 | 10 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 16 |
+| 1 days | 3 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 47% |
-| Math | 5 | 29% |
-| Bit Manipulation | 4 | 24% |
-| Hash Table | 3 | 18% |
-| Simulation | 3 | 18% |
-| String | 3 | 18% |
-| Binary Search | 2 | 12% |
-| Divide and Conquer | 2 | 12% |
-| Greedy | 2 | 12% |
-| Matrix | 2 | 12% |
+| Array | 9 | 50% |
+| Math | 5 | 28% |
+| Bit Manipulation | 4 | 22% |
+| Hash Table | 3 | 17% |
+| Simulation | 3 | 17% |
+| String | 3 | 17% |
+| Binary Search | 2 | 11% |
+| Divide and Conquer | 2 | 11% |
+| Greedy | 2 | 11% |
+| Matrix | 2 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
