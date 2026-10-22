@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:17:38.746Z",
+  "updatedAt": "2026-10-22T15:42:27.936Z",
   "problems": [
     {
       "frontendId": "35",
@@ -184,6 +184,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
           "sha": "8947c28573606d9d774f884d02b47414541e9c54",
           "lastSyncedAt": "2026-09-02T16:03:00.271Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3942",
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "problemName": "3942-minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3942-minimum-operations-to-sort-a-permutation/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3942-minimum-operations-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3942-minimum-operations-to-sort-a-permutation.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.cpp",
+          "sha": "283893aad9f512a5daea236416f37f5c1ff93717",
+          "lastSyncedAt": "2026-10-22T15:42:27.936Z"
         }
       ]
     }
