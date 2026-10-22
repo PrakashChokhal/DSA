@@ -17,6 +17,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakashChokhal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrakashChokhal/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
