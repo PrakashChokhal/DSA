@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T15:42:27.936Z",
+  "updatedAt": "2026-10-23T15:35:36.033Z",
   "problems": [
     {
       "frontendId": "35",
@@ -164,6 +164,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "360ccc78b28e6880fe879a2693642815dc9a4d44",
           "lastSyncedAt": "2026-09-24T09:48:40.979Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
+          "sha": "4b41ba8adb62e90814004c89d192d2616f43128c",
+          "lastSyncedAt": "2026-10-23T15:35:36.033Z"
         }
       ]
     },
