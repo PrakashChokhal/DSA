@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int sortPermutation(vector<int>& nums) {
+        int n = nums.size();
+        int k = - 1; // 1111111... All set bits
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i) {
+                k = k & nums[i];
+                if (k == 0) return 0;
+            }
+        }
+        return max(k, 0);
+    }
+}; 
