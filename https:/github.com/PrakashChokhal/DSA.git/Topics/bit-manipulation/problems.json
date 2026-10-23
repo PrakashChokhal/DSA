@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-16T16:37:48.368Z",
+  "updatedAt": "2026-10-23T15:35:36.033Z",
   "problems": [
     {
       "frontendId": "67",
@@ -84,6 +84,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "b3b6e20c67ae43e34a35f49189dbf84be7587223",
           "lastSyncedAt": "2026-09-29T14:10:41.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
+          "sha": "4b41ba8adb62e90814004c89d192d2616f43128c",
+          "lastSyncedAt": "2026-10-23T15:35:36.033Z"
         }
       ]
     }
