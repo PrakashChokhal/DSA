@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-02T03:00:12.091Z",
+  "updatedAt": "2026-10-24T15:19:55.286Z",
   "problems": [
     {
       "frontendId": "22",
@@ -43,6 +44,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0067-add-binary/0067-add-binary.cpp",
           "sha": "a77437e3111763b8ae45148d5f84e5e5a3f9090c",
           "lastSyncedAt": "2026-10-02T03:00:12.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "ae4d5730a41e6a86216445210bfd71dcf4ed14e2",
+          "lastSyncedAt": "2026-10-24T15:19:55.286Z"
         }
       ]
     },
