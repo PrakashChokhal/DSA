@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T16:37:48.368Z",
+  "updatedAt": "2026-10-24T15:19:55.286Z",
   "problems": [
     {
       "frontendId": "67",
@@ -64,6 +64,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "6ba54fb28d13761f1feb0a8fae4216a83fc9f2c1",
           "lastSyncedAt": "2026-09-14T18:17:55.427Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "ae4d5730a41e6a86216445210bfd71dcf4ed14e2",
+          "lastSyncedAt": "2026-10-24T15:19:55.286Z"
         }
       ]
     },
