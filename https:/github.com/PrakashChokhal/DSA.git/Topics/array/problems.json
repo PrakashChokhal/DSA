@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T15:35:36.033Z",
+  "updatedAt": "2026-10-25T16:11:05.709Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0054-spiral-matrix/0054-spiral-matrix.cpp",
           "sha": "5effd49502beb712f83b1a133acb54955e6f2cf3",
           "lastSyncedAt": "2026-10-10T15:35:19.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0081-search-in-rotated-sorted-array-ii.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.cpp",
+          "sha": "e8ee5fe89fb72f49a76319bcde3e7e1b8cbbe93c",
+          "lastSyncedAt": "2026-10-25T16:11:05.709Z"
         }
       ]
     },
