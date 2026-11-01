@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T15:19:55.286Z",
+  "updatedAt": "2026-11-01T15:17:20.734Z",
   "problems": [
     {
       "frontendId": "67",
@@ -44,6 +44,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0089-gray-code/0089-gray-code.cpp",
           "sha": "0a37228a3c6185031d03ab763592632489c57f29",
           "lastSyncedAt": "2026-10-16T16:37:48.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "problemName": "0453-minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0453-minimum-moves-to-equal-array-elements/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0453-minimum-moves-to-equal-array-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0453-minimum-moves-to-equal-array-elements.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.cpp",
+          "sha": "4d5d18f383c06d5e59085872c66e00499ab0db6c",
+          "lastSyncedAt": "2026-11-01T15:17:20.734Z"
         }
       ]
     },
