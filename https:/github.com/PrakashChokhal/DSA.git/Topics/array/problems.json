@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T15:17:20.734Z",
+  "updatedAt": "2026-11-03T15:45:10.474Z",
   "problems": [
     {
       "frontendId": "35",
@@ -224,6 +224,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
           "sha": "4b41ba8adb62e90814004c89d192d2616f43128c",
           "lastSyncedAt": "2026-10-23T15:35:36.033Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "a83bdec5d9c0c518f3d08f4793f36cab67dbc28a",
+          "lastSyncedAt": "2026-11-03T15:45:10.474Z"
         }
       ]
     },
