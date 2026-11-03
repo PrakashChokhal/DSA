@@ -19,6 +19,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakashChokhal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrakashChokhal/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakashChokhal/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrakashChokhal/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
@@ -100,6 +101,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [2409-count-days-spent-together](https://github.com/PrakashChokhal/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashChokhal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashChokhal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakashChokhal/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashChokhal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
