@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T15:35:36.033Z",
+  "updatedAt": "2026-11-05T15:46:10.615Z",
   "problems": [
     {
       "frontendId": "67",
@@ -84,6 +84,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "b3b6e20c67ae43e34a35f49189dbf84be7587223",
           "lastSyncedAt": "2026-09-29T14:10:41.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "368a81070fd4125a4d044ab681799b2085a0efbf",
+          "lastSyncedAt": "2026-11-05T15:46:10.615Z"
         }
       ]
     },
