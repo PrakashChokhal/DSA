@@ -32,6 +32,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0190-reverse-bits](https://github.com/PrakashChokhal/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakashChokhal/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PrakashChokhal/DSA/tree/master/0338-counting-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrakashChokhal/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
@@ -156,6 +157,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrakashChokhal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0338-counting-bits](https://github.com/PrakashChokhal/DSA/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
