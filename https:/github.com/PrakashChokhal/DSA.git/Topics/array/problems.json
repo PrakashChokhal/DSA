@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T15:45:10.474Z",
+  "updatedAt": "2026-11-05T15:32:51.797Z",
   "problems": [
     {
       "frontendId": "35",
@@ -124,6 +124,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0835-image-overlap/0835-image-overlap.cpp",
           "sha": "80dfe2003de5275a7b516112dbab273c9e520f0a",
           "lastSyncedAt": "2026-09-13T16:28:18.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1385-find-the-distance-value-between-two-arrays.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
+          "sha": "c8391086c6251df600882750bc1884bfeb49aa22",
+          "lastSyncedAt": "2026-11-05T15:32:51.797Z"
         }
       ]
     },
