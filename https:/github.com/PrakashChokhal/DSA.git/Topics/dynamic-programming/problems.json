@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-02T02:39:09.198Z",
+  "updatedAt": "2026-11-05T15:46:10.615Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,6 +24,26 @@
           "path": "https:/github.com/PrakashChokhal/DSA.git/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "c8710f2fd035d401a2daa93a1660c724f4e42970",
           "lastSyncedAt": "2026-10-02T02:39:09.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/",
+      "readmePath": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "https:/github.com/PrakashChokhal/DSA.git/0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "368a81070fd4125a4d044ab681799b2085a0efbf",
+          "lastSyncedAt": "2026-11-05T15:46:10.615Z"
         }
       ]
     }
