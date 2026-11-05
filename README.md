@@ -14,6 +14,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakashChokhal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/PrakashChokhal/DSA/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashChokhal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashChokhal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakashChokhal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -126,6 +127,7 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 | [0035-search-insert-position](https://github.com/PrakashChokhal/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakashChokhal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashChokhal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrakashChokhal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -171,4 +173,9 @@ Solutions and implementations of Data Structures, Algorithms, and Leetcode probl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PrakashChokhal/DSA/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashChokhal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashChokhal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
